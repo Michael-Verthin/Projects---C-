@@ -1,0 +1,5 @@
+E:\7. Code\CsLanguage\SchoolExample\bin\Release\net5.0\publish\CsLanguage.exe
+E:\7. Code\CsLanguage\SchoolExample\bin\Release\net5.0\publish\CsLanguage.dll
+E:\7. Code\CsLanguage\SchoolExample\bin\Release\net5.0\publish\CsLanguage.deps.json
+E:\7. Code\CsLanguage\SchoolExample\bin\Release\net5.0\publish\CsLanguage.runtimeconfig.json
+E:\7. Code\CsLanguage\SchoolExample\bin\Release\net5.0\publish\CsLanguage.pdb
