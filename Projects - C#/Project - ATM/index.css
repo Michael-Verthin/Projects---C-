@@ -1,0 +1,28 @@
+body {
+	font-family: sans-serif;
+	color: rgb(80, 80, 80);
+	display: grid;
+	justify-content: center;
+	align-items: center;
+}
+.header {
+	display: grid;
+	justify-content: center;
+}
+.grid {
+	display: grid;
+	grid-template-columns: 1.2fr 1fr;
+	grid-template-rows: 1.2fr 1fr;
+	position: relative;
+}
+.grid input {
+	font-size: 150%;
+	width: 200px;
+	border-width: 4px;
+	border-radius: 5%;
+	border-color: orangered;
+	color: rgb(80, 80, 80);
+}
+.grid input:hover {
+	background-color: rgb(200, 200, 200);
+}
