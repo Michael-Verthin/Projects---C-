@@ -15,4 +15,5 @@ void main()
     scanf("%f", &price);
     totalPrice = price + (price * TAXES);
     printf("Total price including %.2f%% taxes is %.2f\n", TAXES * 100, totalPrice);
+    flushall();
 }
