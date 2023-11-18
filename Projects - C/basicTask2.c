@@ -1,6 +1,9 @@
 #pragma warning(disable : 4996); // A warning message that we are allowing to pass...
+
 #include <stdio.h>
 #include <stdlib.h>
+
+// Print the number of letters from A-Z
 
 void main()
 {

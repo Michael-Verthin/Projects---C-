@@ -3,7 +3,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Create a simple ticket payment
+
 #define PRICE_PER_TICKET 35
+
 void main()
 {
     int numOfTickets, pay;
