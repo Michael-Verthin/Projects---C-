@@ -1,3 +1,12 @@
+/*
+  The user is entering a continuous input of numbers,
+  the first one is the USD exchange rate for the given day,
+  Then the program will return each USD to its converten Shekel amount.
+
+  Two things that should only be make once during this code is the "Title" ($ IS)
+  and saving the dollar exchange rate, for that, the if-else check for the first
+  index only and the rest is the calculation for the convert
+*/
 #include <stdio.h>
 
 int main()
