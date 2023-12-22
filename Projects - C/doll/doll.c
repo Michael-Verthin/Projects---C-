@@ -1,4 +1,6 @@
 /*
+  Made by Michael Verthin, 209506260, for mm"n 11
+
   The user is entering a continuous input of numbers,
   the first one is the USD exchange rate for the given day,
   Then the program will return each USD to its converten Shekel amount.
