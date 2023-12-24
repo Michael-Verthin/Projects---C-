@@ -16,7 +16,7 @@ int main()
   float dollar_exchange_rate = 0, total_dollar = 0, total_shekel = 0, dollar_amount = 0;
   int i = 0;
 
-  while (scanf("%f", &dollar_amount) == 1)
+  while (scanf("%f", &dollar_amount) != EOF)
   {
     if (i == 0)
     {
